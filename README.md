@@ -2,7 +2,7 @@
 
 
 
-개발 언어: Python, JavaScript, SQLite3
+개발 언어: Python, JavaScrip
 
 개발 환경: Pycharm
 
